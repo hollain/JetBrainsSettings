@@ -1,0 +1,2 @@
+# JetBrainsSettings
+global Settings
