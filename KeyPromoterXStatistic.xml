@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Parameter Info">
+        <Item>
+          <IdeaActionID>ParameterInfo</IdeaActionID>
+          <ShortCut>'⌘P'</ShortCut>
+          <Description>Parameter Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -55,6 +63,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'⌘S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
