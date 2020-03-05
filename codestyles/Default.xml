@@ -1,1 +1,11 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <yaml>
+    <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
+  </yaml>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
